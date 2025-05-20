@@ -13,7 +13,7 @@ client.on('qr', (qr) => {
 client.on('ready', async () => {
   console.log('🤖 Bot está pronto!')
 
-  const number = '558184088364@c.us' // Substitua pelo número correto
+  const number = '00000000000@c.us' // Substitua pelo número correto com @c.us
 
   const mensagem = gerarMenuSaldo()
 
